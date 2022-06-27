@@ -7,7 +7,7 @@
         0,
         0
       ],
-      "allow_automatic_download": true,
+      "allow_automatic_download": false,
       "download_url": "https://www.example.com/my-addon-1.0.0.zip",
       "minimum_blender_version": [
         2,
